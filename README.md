@@ -35,7 +35,6 @@
 
 FlintLauncher is a free, open-source Minecraft: Java Edition launcher for Android, forked from [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher). Built with one goal: **make Minecraft Java accessible to every Android user**, especially those on low-end or older devices that other launchers ignore.
 
-No PC. No expensive phone. Just you and the game.
 
 ---
 
